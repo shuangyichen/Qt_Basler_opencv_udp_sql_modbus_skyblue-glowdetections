@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>1.png</file>
+    </qresource>
+    <qresource prefix="/light">
+        <file>light/greenoff.jpg</file>
+        <file>light/greenon.jpg</file>
+        <file>light/redoff.jpg</file>
+        <file>light/redon.jpg</file>
+    </qresource>
+</RCC>
